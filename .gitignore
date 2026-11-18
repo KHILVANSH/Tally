@@ -37,3 +37,8 @@ android/local.properties
 # Temporary test assets
 *.old
 test_adaptive_*.png
+.env
+.env.local
+*serviceaccount*.json
+*gserviceaccount*.json
+credentials.json
